@@ -1,2 +1,4 @@
 this is just a txt file
 practicing how to use github
+an event was created
+this is to update the branch
